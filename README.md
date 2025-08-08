@@ -4,17 +4,17 @@
 - 'B' or 'S' will create a "Buy To" or "Sell To" element. To change the number on it, click the element and type the number you want. This also works for the "Start At" element.
 - 'H' will create a "Halloween" element, and 'N' will create a "No Season" element. Both have the same function. 'E' will create an "Easter" element.
 - 'G' or 'W' will create a "Click GC" or "Click WC" element. After selecting it, you can restrict it to a specific buff with the following keys:
-  -A for blAb on a GC, or B for Blab on a WC.
-  -B for BS
-  -C for CF or Clot
-  -D for storm Drop
-  -E for EF
-  -F for Frenzy or cursed Finger
-  -L for Lucky
-  -R for Ruin
-  -S for Storm
-  -W for sWeet on a GC, or S for Sweet on a WC.
-  -O for all other effects that aren't listed.
+  - A for blAb on a GC, or B for Blab on a WC.
+  - B for BS
+  - C for CF or Clot
+  - D for storm Drop
+  - E for EF
+  - F for Frenzy or cursed Finger
+  - L for Lucky
+  - R for Ruin
+  - S for Storm
+  - W for sWeet on a GC, or S for Sweet on a WC.
+  - O for all other effects that aren't listed.
 - 'L' will create a "Lump" element, and 'C' will create a "Caramel lump" element.
 - 'I' will create an "Invoke Module" element, and 'M' will create a "Module" element.
 - 'Shift+2' will let you take a different route depending on whether you have a FtHoF GC onscreen or not. 'Shift+3' will let you take a different route depending on whether you have a ST backfire or not. 'Shift+8' will let you take a different route depending on whether you have a successful DI or not. 'Shift+F' will let you take a different route depending on whether you have a fortune GC onscreen or not.
